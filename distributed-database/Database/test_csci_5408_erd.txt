@@ -1,0 +1,11 @@
+TableName: test_csci_students_2
+Primary Key: student_id
+Columns: 
+ColumnName: student_id columnType: varchar
+ColumnName: name columnType: varchar
+ColumnName: age columnType: int
+ColumnName: course columnType: varchar
+Foreign Keys: No Foreign Keys
+
+
+

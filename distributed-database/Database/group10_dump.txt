@@ -1,0 +1,99 @@
+use group10
+create table group_10_student (student_id varchar Primary Key, name varchar, age int, course varchar)
+create table group_10_student_1 (student_id varchar Primary Key, name varchar, age int, course varchar)
+create table group_10_student_2 (student_id varchar Primary Key, name varchar, age int, course varchar)
+insert into group_10_student_2 (student_id,name) values (1,Arun,25,MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (1,Arun,25,MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (2,Arun,25,MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (2,Arun,25,MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (3,Arun, 25,MACS)
+use group10
+use group10
+use group10
+insert into group_10_student_2 (student_id,name,age,course) values (3,Arun,sdhej,MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (4,Arun,sdhej,MACS)
+update group_10_student_2  set age=27 where student_id=1
+delete from group_10_student_2 where student_id=2
+TRUNCATE table group_10_student_2
+DROP table group_10_student_2
+use group10
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (3,Raj,34,MACS)
+use group10
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (5, Arun, 45, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+use group10
+use group10
+use group10
+use group10
+use group10
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (4, , 45brad, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, brad, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (4, Arun, 45, MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (4, brad, 25,MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (4, brad, 45, MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (9, raj, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (4, brad, 45, MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (9, raj, 25, MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (14, king,29, MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (19, queen, 75, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (14, king,29, MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (19, queen, 75, MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (8, varun, 45, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (100, latfi, 44,MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (19, lewis, 85, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (100, latfi, 44,MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (19, lewis, 85, MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (14,williams, 25, MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (14,williams, 25, MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (1, Arun, 25, MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (2, leclerc, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (2, leclerc, 25, MACS)
+use group10
+insert into group_10_student_1 (student_id,name,age,course) values (1, Arun, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (4,boombox, 25, MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (4,boombox, 25, MACS)
+use group10
+use group10
+use group10
+use group10
+use group10
+use group10
+insert into group_10_student_2 (student_id,name,age,course) values (2,Arun,25,MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (6,rajeev,25,MACS)
+insert into group_10_student_2 (student_id,name,age,course) values (2,Arun,25,MACS)
+insert into group_10_student_1 (student_id,name,age,course) values (6,rajeev,25,MACS)

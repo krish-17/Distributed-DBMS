@@ -1,0 +1,2 @@
+use csci5408
+create table test_csci_students_3 (student_id varchar Primary Key, name varchar, age int, course varchar)

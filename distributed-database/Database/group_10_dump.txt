@@ -1,0 +1,3 @@
+use group_10
+use group_10
+create table group_10_student_3 (student_id varchar Primary Key, name varchar, age int, course varchar)

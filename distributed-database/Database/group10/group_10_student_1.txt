@@ -1,0 +1,5 @@
+student_id$name$age$course
+1$ Arun$ 25$ MACS
+2$ leclerc$ 25$ MACS
+4$boombox$ 25$ MACS
+6$rajeev$25$MACS

@@ -1,0 +1,2 @@
+local@@@group10@@@group_10_student_1@@@student_id@@@{"columns":[{"columnType":"varchar","columnName":"student_id"},{"columnType":"varchar","columnName":"name"},{"columnType":"int","columnName":"age"},{"columnType":"varchar","columnName":"course"}]}@@@{"keys":[]}
+local@@@group10@@@group_10_student_2@@@student_id@@@{"columns":[{"columnType":"varchar","columnName":"student_id"},{"columnType":"varchar","columnName":"name"},{"columnType":"int","columnName":"age"},{"columnType":"varchar","columnName":"course"}]}@@@{"keys":[]}
